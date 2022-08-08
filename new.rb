@@ -27,7 +27,7 @@ Car.run(10)
 
 class Car
   def self.turn(direction)
-    puts "#{direction}に
+    puts "#{direction}に曲がります。"
   end
 end
 
